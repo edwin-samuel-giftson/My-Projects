@@ -16,7 +16,8 @@ This data visualization project aimed at uncovering valuable insights into the p
 - **Data Visualization:** Utilized various visualization techniques including pie charts, bar charts, area charts, and maps to represent data effectively.
 
 ## Impact
-- In today's competitive banking landscape, helps understanding customer sentiments and preferences which are crucial for optimizing services and fostering customer loyalty.
+
+In today's competitive banking landscape, helps understanding customer sentiments and preferences which are crucial for optimizing services and fostering customer loyalty.
 
 
 ## Dashboad:
