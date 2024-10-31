@@ -1,4 +1,4 @@
-# Global Super Store Dashboard Project
+# Bankalytics: Analyzing Banks Performance and Customer Trends
 
 ## Overview
 This data visualization project aimed at uncovering valuable insights into the performance of banks by analyzing customer reviews, ratings, and segmentation.
