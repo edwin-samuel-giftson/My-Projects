@@ -2,6 +2,7 @@
 
 ## Overview
 This data visualization project aimed at uncovering valuable insights into the performance of banks by analyzing customer reviews, ratings, and segmentation.
+Through SAS Visual Anlytics tool , Bankalytics aggregates customer feedback data and provides a dashboard with interactive visualizations that allow users to explore key performance indicators, sentiment trends, and customer satisfaction levels across different banking institutions.
 
 ## Features
 - Location and Distribution of Population
