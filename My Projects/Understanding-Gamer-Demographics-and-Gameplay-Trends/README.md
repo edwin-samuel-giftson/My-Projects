@@ -8,10 +8,15 @@ Kaggle, a platform for hosting analytical datasets, served as the source of this
 
 ## Process
 1. Data Profiling
-Profiling was conducted at the start to examine the data's quality and structure
+   
+Profiling was conducted to examine the structure and distribution of the data
+
 2. Data Cleaning
+   
 Cleaning processes were carried out using GCP Data Prep to enhance data accuracy and consistency.
-2. Data Visualization
+
+3. Data Visualization
+   
 Visualizations were created in Tableau to enhance understanding, with additional preparation done in Tableau Prep.   
 
 
@@ -26,5 +31,10 @@ Visualizations were created in Tableau to enhance understanding, with additional
 Data from Kaggle was successfully integrated,used GCP for processing and employed Tableau for visualization showcasing a complete data management and acquisition process.
 
 
+### Data Uncleaning
 
-![image](https://github.com/Rakesh-Seenu/PowerBI_Projects/assets/126412041/8a0d8328-8f3e-465e-b9b2-0e90e05bf12e)
+![Data Uncleaning](https://github.com/edwin-samuel-giftson/My-Projects/blob/main/My%20Projects/Understanding-Gamer-Demographics-and-Gameplay-Trends/Data-Uncleaning.png?raw=true)
+
+### Data Cleaning
+
+![Data Cleaning]()
