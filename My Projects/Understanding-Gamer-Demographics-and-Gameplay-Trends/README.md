@@ -37,4 +37,4 @@ Data from Kaggle was successfully integrated,used GCP for processing and employe
 
 ### Data Cleaning
 
-![Data Cleaning]()
+![Data Cleaning](https://github.com/edwin-samuel-giftson/My-Projects/blob/main/My%20Projects/Understanding-Gamer-Demographics-and-Gameplay-Trends/Data-Cleaning-and-Profiling.png?raw=true)
