@@ -24,3 +24,7 @@ Visualizations were created in Tableau to enhance understanding, with additional
 
 ## Conclusion
 Data from Kaggle was successfully integrated,used GCP for processing and employed Tableau for visualization showcasing a complete data management and acquisition process.
+
+
+
+![image](https://github.com/Rakesh-Seenu/PowerBI_Projects/assets/126412041/8a0d8328-8f3e-465e-b9b2-0e90e05bf12e)
