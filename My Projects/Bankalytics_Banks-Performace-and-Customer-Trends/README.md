@@ -19,15 +19,12 @@ This data visualization project aimed at uncovering valuable insights into the p
 
 In today's competitive banking landscape, helps understanding customer sentiments and preferences which are crucial for optimizing services and fostering customer loyalty.
 
-
 ## Dashboad:
-![image](https://github.com/Rakesh-Seenu/PowerBI_Projects/assets/126412041/8a0d8328-8f3e-465e-b9b2-0e90e05bf12e)
 
-
-![Location and Distribution of Population]()
-![Banks Overview and Top Performing Banks]()
-![Rating Timeline and Feedback Frequency]()
-![Ratings and Reviews]()
-![Review Analysis]()
+![Location and Distribution of Population](https://github.com/edwin-samuel-giftson/My-Projects/blob/main/My%20Projects/Bankalytics_Banks-Performace-and-Customer-Trends/dashboard-visualizations/1_location-distribution.png?raw=true)
+![Banks Overview and Top Performing Banks](https://github.com/edwin-samuel-giftson/My-Projects/blob/main/My%20Projects/Bankalytics_Banks-Performace-and-Customer-Trends/dashboard-visualizations/2_banks-overview.png?raw=true)
+![Rating Timeline and Feedback Frequency](https://github.com/edwin-samuel-giftson/My-Projects/blob/main/My%20Projects/Bankalytics_Banks-Performace-and-Customer-Trends/dashboard-visualizations/3_ratings-reviews.png?raw=true)
+![Ratings and Reviews](https://github.com/edwin-samuel-giftson/My-Projects/blob/main/My%20Projects/Bankalytics_Banks-Performace-and-Customer-Trends/dashboard-visualizations/4_time-series.png?raw=true)
+![Review Analysis](https://github.com/edwin-samuel-giftson/My-Projects/blob/main/My%20Projects/Bankalytics_Banks-Performace-and-Customer-Trends/dashboard-visualizations/5_review-analysis.png?raw=true)
 
 
