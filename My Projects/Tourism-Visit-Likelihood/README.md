@@ -47,19 +47,8 @@ This project explores opinion mining on Twitter, focusing on tourism as an appli
 
 ## Architecture
 
-The application uses a modular architecture with distinct components for file uploading, text extraction, summarization, and PDF generation.
+![image](https://github.com/edwin-samuel-giftson/My-Projects/blob/main/My%20Projects/Tourism-Visit-Likelihood/Architecture.png?raw=true)
 
-1. **Frontend**: 
-   - A simple web interface for uploading files and displaying the processing status.
-   
-2. **Backend**: 
-   - Flask-based application for handling file uploads, invoking the language model, and generating PDF files.
-   
-3. **Language Model**: 
-   - Together API (`meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo`) used to summarize interview transcripts into structured biographies.
-
-4. **Real-Time Processing**: 
-   - Flask-SocketIO provides real-time feedback during file processing.
 
 ---
 
@@ -67,15 +56,21 @@ The application uses a modular architecture with distinct components for file up
 
 ### Home Window
 
+![image](https://github.com/edwin-samuel-giftson/My-Projects/blob/main/My%20Projects/Tourism-Visit-Likelihood/Implementation%20and%20Results/1_Home%20Window.png?raw=true)
 
 ### Initial Training of the Model
 
+![image](https://github.com/edwin-samuel-giftson/My-Projects/blob/main/My%20Projects/Tourism-Visit-Likelihood/Implementation%20and%20Results/2_Initial%20Training%20of%20the%20Model.png?raw=true)
 
 ### Incremental Learning
 
+![image](https://github.com/edwin-samuel-giftson/My-Projects/blob/main/My%20Projects/Tourism-Visit-Likelihood/Implementation%20and%20Results/3_Incremental%20Learning%201.png?raw=true)
+
+![image](https://github.com/edwin-samuel-giftson/My-Projects/blob/main/My%20Projects/Tourism-Visit-Likelihood/Implementation%20and%20Results/4_Incremental%20Learning%202.png?raw=true)
 
 ### Test the Trained Model
 
+![image](https://github.com/edwin-samuel-giftson/My-Projects/blob/main/My%20Projects/Tourism-Visit-Likelihood/Implementation%20and%20Results/5_Test%20the%20Trained%20Model.png?raw=true)
 
 ---
 
