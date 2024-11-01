@@ -26,9 +26,6 @@ Enables offers deeper insights into the impact of the pandemic therby empowering
 
 ## Dashboad:
 
-![image](https://github.com/Rakesh-Seenu/PowerBI_Projects/assets/126412041/8a0d8328-8f3e-465e-b9b2-0e90e05bf12e)
-
-
-![image]()
+![image](https://github.com/edwin-samuel-giftson/My-Projects/blob/main/My%20Projects/Global-Pandemic-Tracker/Pandemic-Tracker-Dashboard.png?raw=true)
 
 
