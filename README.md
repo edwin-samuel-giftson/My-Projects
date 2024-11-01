@@ -1,6 +1,5 @@
 # My Projects
 
-- [SQL-Driven Analysis of Nashville's Housing Market](./My%20Projects/SQL-Driven-Analysis-of-Nashville's-Housing-Market)
 - [Nashville's Housing Market SQL-Driven Analysis](./My%20Projects/Nashville's-Housing-Market-SQL-Driven-Analysis)
 - [Global Pandemic Tracker](./My%20Projects/Global-Pandemic-Tracker)
 - [HushHush Recruiter](./My%20Projects/HushHush-Recruiter)
