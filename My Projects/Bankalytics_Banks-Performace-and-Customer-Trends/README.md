@@ -13,7 +13,7 @@ This data visualization project aimed at uncovering valuable insights into the p
 ## Tools and Technologies
 - **SAS Visual Anlytics** Used for data visualization and creating an interactive dashboard.
 - **Data Analysis:** Performed comprehensive data analysis to derive insights and trends from the dataset.
-- **Data Visualization:** Utilized various visualization techniques including pie charts, bar charts, area charts, and maps to represent data effectively.
+- **Data Visualization:** Utilized various visualization techniques including pie charts, bar charts, line charts, word maps , tree maps and geography maps to represent data effectively.
 
 ## Impact
 
